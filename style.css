@@ -340,8 +340,8 @@ h3{
     font-weight: 600;
 }
 .location{
-    width: 100%;
-    margin: ;
+    width: 80%;
+    margin: auto;
     padding: 80px 0;
 }
 .location iframe{
@@ -350,8 +350,9 @@ h3{
 .sub-header{
     height: 50vh;
     width: 100%;
-    
     text-align: center;   
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/istockphoto-hospital.jpg);
+    color: #fff;
 }
 .sub-header h1{
     margin-top: 100px;
